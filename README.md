@@ -34,7 +34,10 @@
 
 ###
 
-[![revo667's Discord status](https://dsc-readme.tsuni.dev/api/user/275774468658298883?aboutMe=audentes+fortuna+iuvat&theme=custom&colorB1=000000&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=304&font=vampyre&layout=compact)](https://github.com/the-snesler/discord-github-preview)
+<div data-importer="discord-status" align="center">
+  <img src="https://dsc-readme.tsuni.dev/api/user/275774468658298883?aboutMe=audentes+fortuna+iuvat&theme=custom&colorB1=000000&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=304&font=vampyre&layout=compact)](https://github.com/the-snesler/discord-github-preview". />
+</div>
+
 
 ###
 
