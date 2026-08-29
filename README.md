@@ -1,6 +1,6 @@
-# 👋, Selim Yildiz
+# audentes fortuna iuvat
 
-### audentes fortuna iuvat
+### selim yildiz
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revo667&label=Profile views&color=0e75b6&style=flat" alt="revo667" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/revo667" target="blank"><img src="https://img.shields.io/twitter/follow/revo667?logo=twitter&style=for-the-badge" alt="revo667" /></a> </p>
 
-- 📫 How to reach me **contact@revo667.com**
+- reach me **contact@revo667.com**
 
-- 👨‍💻 All of my projects are available at **[https://www.revo667.com](https://www.revo667.com)**
+- my projects are available at **[www.revo667.com](https://www.revo667.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
