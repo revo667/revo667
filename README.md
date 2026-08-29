@@ -1,4 +1,4 @@
-![GIF](https://tenor.com/bEy6B.gif)
+![GIF](./pain.gif)
 
 # audentes fortuna iuvat
 
