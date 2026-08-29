@@ -34,6 +34,10 @@
 
 ###
 
+[![revo667's Discord status](https://dsc-readme.tsuni.dev/api/user/275774468658298883?aboutMe=audentes+fortuna+iuvat&theme=custom&colorB1=000000&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=304&font=vampyre&layout=compact)](https://github.com/the-snesler/discord-github-preview)
+
+###
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:revo667?theme=original-old&padding=4&offset=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
