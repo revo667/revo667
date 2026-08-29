@@ -24,7 +24,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/9ttuzen39eqy21vbhq9b3zuak">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9ttuzen39eqy21vbhq9b3zuak&count=4" alt="Spotify recently played"  />
+    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=9ttuzen39eqy21vbhq9b3zuak&count=4](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=9ttuzen39eqy21vbhq9b3zuak&bg_color=000000&text_color=4d167d&artist_color=413d4a&logo_color=4d167d)" alt="Spotify recently played"  />
   </a>
 </div>
 
