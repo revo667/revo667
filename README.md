@@ -2,9 +2,6 @@
 
 ### selim yildiz
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=revo667&label=Profile views&color=0e75b6&style=flat" alt="revo667" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revo667" alt="revo667" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/revo667" target="blank"><img src="https://img.shields.io/twitter/follow/revo667?logo=twitter&style=for-the-badge" alt="revo667" /></a> </p>
 
