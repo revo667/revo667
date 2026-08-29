@@ -1,3 +1,5 @@
+![GIF](https://tenor.com/bEy6B.gif)
+
 # audentes fortuna iuvat
 
 ### selim yildiz
