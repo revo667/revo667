@@ -35,7 +35,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:revo667?theme=original-old&padding=6&offset=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:revo667?theme=original-old&padding=4&offset=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
