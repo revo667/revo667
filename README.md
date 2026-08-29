@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./itachi1.gif" width="500">
+  <img src="./itachi1.gif" width="400">
 </p>
 
 <div data-importer="border">
