@@ -8,10 +8,6 @@
 
 ###
 
-<h2 data-importer="text" align="center">Selim Yildiz</h2>
-
-###
-
 <div data-importer="socials" align="center">
   <a href="https://x.com/revo667" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="57" height="40" alt="twitter logo" />
