@@ -40,27 +40,8 @@
 ###
 
 <div align="center">
-
-  <a href="https://revo667.com">
-    <img
-      src="https://dsc-readme.tsuni.dev/api/user/275774468658298883?aboutMe=audentes+fortuna+iuvat&theme=custom&colorB1=000000&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=344&font=vampyre&nameColor1=471675"
-      alt="revo667's Discord status"
-      width="330"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://open.spotify.com/user/9ttuzen39eqy21vbhq9b3zuak">
-    <img
-      src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=9ttuzen39eqy21vbhq9b3zuak&bg_color=000000&text_color=4d167d&artist_color=413d4a&logo_color=4d167d&count=3"
-      alt="Spotify recently played"
-      width="330"
-    />
-  </a>
-
+<a href="https://revo667.com"><img src="https://dsc-readme.tsuni.dev/api/user/275774468658298883?aboutMe=audentes+fortuna+iuvat&theme=custom&colorB1=000000&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=440&font=vampyre&nameColor1=471675&layout=compact" width="48%" alt="Discord Status"></a><a href="https://open.spotify.com/user/9ttuzen39eqy21vbhq9b3zuak"><img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=9ttuzen39eqy21vbhq9b3zuak&bg_color=000000&text_color=4d167d&artist_color=413d4a&logo_color=4d167d&count=3" width="48%" alt="Spotify Recently Played"></a>
 </div>
-
 ###
 
 <div data-importer="profile-views" align="center">
