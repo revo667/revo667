@@ -43,7 +43,7 @@
 
   <a href="https://revo667.com">
     <img
-      src="https://dsc-readme.tsuni.dev/api/user/275774468658298883?aboutMe=audentes+fortuna+iuvat&theme=custom&colorB1=000000&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=440&font=vampyre&nameColor1=471675&layout=compact"
+      src="https://dsc-readme.tsuni.dev/api/user/275774468658298883?aboutMe=audentes+fortuna+iuvat&theme=custom&colorB1=000000&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=344&font=vampyre&nameColor1=471675"
       alt="revo667's Discord status"
       width="440"
     />
