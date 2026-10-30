@@ -24,7 +24,7 @@
 
 <div align="center">
 <a href="https://discord.com/users/1118833327307227236"><img src="https://www.revo667.com/api/discord-card" width="48%" alt="Discord"></a>
-<a href="https://open.spotify.com/user/9ttuzen39eqy21vbhq9b3zuak"><img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=9ttuzen39eqy21vbhq9b3zuak&bg_color=000000&text_color=4d167d&artist_color=413d4a&logo_color=4d167d&count=3" width="48%" alt="Spotify Recently Played"></a>
+<a href="https://open.spotify.com/user/9ttuzen39eqy21vbhq9b3zuak"><img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=9ttuzen39eqy21vbhq9b3zuak&bg_color=000000&text_color=4d167d&artist_color=413d4a&logo_color=4d167d&count=5" width="48%" alt="Spotify Recently Played"></a>
 </div>
 
 ###
